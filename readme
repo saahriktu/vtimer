@@ -1,0 +1,8 @@
+Vtimer v0.2
+
+Visual ncurses timer with progressbar.
+
+usage: vtimer seconds
+
+Author: Kurashov Artem
+License: GNU GPLv3
